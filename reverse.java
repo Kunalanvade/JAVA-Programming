@@ -9,7 +9,7 @@ public class reverse {
             System.out.print(l);
              n = n/10;
 }
-        System.out.println();
+        // System.out.println();
        
 }
 }
